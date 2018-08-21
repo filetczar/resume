@@ -1,5 +1,5 @@
 .name {
-    font-size: 50px !important;
+    font-size: 45px !important;
     text-align: center;
     font-family: 'Roboto';
     color: #797979;
@@ -15,7 +15,7 @@
     font-family: 'Roboto';
     color: #797979;
     margin:0px;
-    font-size: 14px;
+    font-size: 12px;
       -webkit-print-color-adjust: exact !important;
 
 }
@@ -28,7 +28,7 @@
     color: #797979;
     border-left: 1px solid #797979;
     margin:0px;
-    font-size: 14px;
+    font-size: 12px;
       -webkit-print-color-adjust: exact !important;
 
 
@@ -51,5 +51,43 @@ body {
     color: #797979;
     font-weight: bold;
       -webkit-print-color-adjust: exact !important;
+
+}
+.experience {
+    font-family: 'Roboto';
+    color: #797979;
+    margin-left: 50px;
+    font-size: 16px;
+    font-weight: 300;
+      -webkit-print-color-adjust: exact !important;
+
+}
+.sub-experience {
+    font-family: 'Roboto';
+    color: #797979;
+    margin-left: 50px;
+    font-size: 14px;
+    font-weight: 300;
+    font-style: italic;
+      -webkit-print-color-adjust: exact !important;
+
+}
+p {
+    font-family: 'Roboto';
+    color: #797979;
+    font-size:14px;
+    font-weight:300;
+    -webkit-print-color-adjust: exact !important;
+
+}
+
+ul,li {
+    font-family: 'Roboto';
+    color: #797979;
+    font-size:12px;
+    font-weight:300;
+    margin-left: 20px;
+
+    -webkit-print-color-adjust: exact !important;
 
 }
